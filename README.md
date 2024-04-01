@@ -1,2 +1,2 @@
 # pythonwithSyedaBeeno
- A repository for javascript coding based series
+ A repository for python coding based series
